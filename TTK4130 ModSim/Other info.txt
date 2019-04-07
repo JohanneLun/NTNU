@@ -1,0 +1,7 @@
+- https://github.com/camillasterud/ModSim
+- https://www.wikipendium.no/TTK4130_Modelling_and_Simulation
+
+This years ex.5 is last years ex.6
+This years ex.7 is last years ex.10
+This years ex.10 is last years ex.11
+This years ex.11 is last years ex.7

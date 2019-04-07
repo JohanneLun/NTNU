@@ -1,2 +1,0 @@
-- https://github.com/camillasterud/ModSim
-- https://www.wikipendium.no/TTK4130_Modelling_and_Simulation
